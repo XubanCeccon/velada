@@ -1,0 +1,6 @@
+gradientborder{
+  border: solid $r;
+	border-image: linear-gradient(90deg, purple, orange) 1;
+	padding: .5em;
+  clip-path: inset(0 round $r);
+}
