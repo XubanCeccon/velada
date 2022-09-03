@@ -11,17 +11,17 @@
   <body class="d-flex flex-column h-100">
     <nav class="navbar navbar-expand-lg bg-light " > <!-- style="background-color: #ad2a2f;" -->
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">velada.info</a>
+        <a class="navbar-brand" href="/index.html">velada.info</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Eventos</a>
+              <a class="nav-link active" aria-current="page" href="/HTML/eventos.html">Eventos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Peleadores</a>
+              <a class="nav-link inactive" aria-current="page" href="/HTML/peleadores.html">Peleadores</a>
             </li>
           </ul>
           <form class="d-flex" role="search">
@@ -38,15 +38,32 @@
       <h2>Eventos</h2>
       <hr>
       <div>
-        <table class="table table-striped table-hover">
+        <table class="table table-hover">
           <thead>
             <tr>
               <th>Evento</th>
               <th>Fecha</th>
               <th>Organizador</th>
+              <th>Ficha completa</th>
             </tr>
           </thead>
-          <tbody id="tbody1">
+          <tbody>
+              <tr>
+                <td>La velada del año</td>
+                <td>26 de mayo de 2021</td>
+                <td>Don Ibai Llanos</td>
+                <td><a href="HTML/eventos.html" class="btn btn-danger" role="button">🔥Peleas🔥</a></td>
+              </tr>
+            <tr>
+              <td>La velada del año 2</td>
+              <td>sábado 25 de junio de 2022</td>
+              <td>Don Ibai Llanos</td>
+            </tr>
+            <tr>
+              <td>[especulación] La velada del año 3</td>
+              <td>-</td>
+              <td>-</td>
+            </tr>
             
           </tbody>
         </table>
