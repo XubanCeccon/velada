@@ -5,8 +5,8 @@ Página parecida: http://ufcstats.com/statistics/events/completed
 
 Es una página programada con HTML, CSS, JS. Para la base de datos utiliza firebase.
 Tendrá 2 páginas principales. 
-1)Evento      -> https://www.fite.tv/watch/ksi-vs-paul-2/2p4fu/
-2)Peleador    -> https://www.fite.tv/fighter/logan-paul/11870/
+1)Evento -> https://www.fite.tv/watch/ksi-vs-paul-2/2p4fu/
+2)Peleador -> https://www.fite.tv/fighter/logan-paul/11870/
 
 
 CURSO FIREBASE DE GOOGLE (2018)
