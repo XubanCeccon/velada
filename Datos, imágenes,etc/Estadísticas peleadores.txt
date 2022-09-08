@@ -37,7 +37,7 @@ Alcance: 1,60 | 1,60
 Edad: 24, 25
 Color: Negro y blanco | Lila y blanco
 Localidad: Monterrey(mexico), Getafe
-Entrenador: Julio César Chávez, ?
+Entrenador: Julio César Chávez, Tinín Rodríguez
 Ganador: Por decisión dividida 2-1 Arigameplays
 
 Tercer combate:(3:06:18)
